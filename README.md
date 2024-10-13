@@ -1,8 +1,8 @@
-# Developer
-Code Repository for Developer Profile
+# Markdown
+Code for Markdown 
 
 # Content
-- Diffrent branches for diffrent developer tools
+- Topic related to Markdown
 
-# Branches
-- markdown : This branch will have code related to Markdown
+# Sections
+- Getting Started
