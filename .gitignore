@@ -53,3 +53,5 @@ dkms.conf
 
 # vertual env
 .python_venv
+# Virtual Environment
+.markdown
