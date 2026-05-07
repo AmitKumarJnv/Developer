@@ -19,5 +19,5 @@ Each folder contains code examples, notes, and small projects for a specific tec
 ## 🚀 How to Use
 
 1. Navigate to any folder.
-2. Each folder has its own `requirements.txt` or `pyproject.toml` and setup instructions in its own `README.md`.
+2. Each folder has its own `requirements.txt` instructions in its own `README.md`.
 3. Use separate virtual environments per chapter to avoid dependency conflicts (pattern: `.venv_chap_*` – already in `.gitignore`).
