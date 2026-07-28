@@ -1,3 +1,14 @@
+/fastapienv/
+/.idea/FastAPI-The-Complete-Course.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+
+__pycache__/
+.idea
+env
+
 # Prerequisites
 *.d
 
@@ -45,8 +56,8 @@
 # Kernel Module Compile Results
 *.mod*
 *.cmd
+*.DS_Store
 .tmp_versions/
-**/.DS_Store
 modules.order
 Module.symvers
 Mkfile.old
