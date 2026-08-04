@@ -14,7 +14,7 @@ Each folder contains code examples, notes, and small projects for a specific tec
 | `05-databases` | SQL (PostgreSQL), NoSQL (MongoDB, Redis), ORMs (SQLAlchemy), migrations. |
 | `06-docker` | Dockerfiles, image layering, volumes, networking, docker-compose for multi‑service apps. |
 | `07-kubernetes` | Pods, deployments, services, ConfigMaps, Ingress, Helm charts, Minikube. |
-| `08-projects` | End‑to‑end projects combining all the above (e.g., real‑time ML inference API). |
+| `08-projects` | End‑to‑end projects combining all the above. |
 
 ## 🚀 How to Use
 
