@@ -1,0 +1,14 @@
+2026-08-06 10:29:38,527 - CRITICAL - UNEXPECTED CRASH in calculation: All list elements must be numbers
+Traceback (most recent call last):
+  File "/Users/sumitsingh/Desktop/Developer/plan_03_dsa/book_DSA_in_python/chap_01_python_primer/practicing_exception_handling/main.py", line 14, in process_user_data
+    mean = calculate_mean(data)
+  File "/Users/sumitsingh/Desktop/Developer/plan_03_dsa/book_DSA_in_python/chap_01_python_primer/practicing_exception_handling/calculations.py", line 15, in calculate_mean
+    raise ValueError("All list elements must be numbers")
+ValueError: All list elements must be numbers
+2026-08-06 10:33:45,514 - CRITICAL - UNEXPECTED CRASH in calculation: All list elements must be numbers
+Traceback (most recent call last):
+  File "/Users/sumitsingh/Desktop/Developer/plan_03_dsa/book_DSA_in_python/chap_01_python_primer/practicing_exception_handling/main.py", line 14, in process_user_data
+    mean = calculate_mean(data)
+  File "/Users/sumitsingh/Desktop/Developer/plan_03_dsa/book_DSA_in_python/chap_01_python_primer/practicing_exception_handling/calculations.py", line 15, in calculate_mean
+    raise ValueError("All list elements must be numbers")
+ValueError: All list elements must be numbers
